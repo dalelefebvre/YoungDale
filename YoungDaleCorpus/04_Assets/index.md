@@ -1,7 +1,7 @@
 ---
-id: dale/13_Patentability/youngdale/index/v1
-title: youngdale – Index
-domain: youngdale
+id: dale/04_Assets/index/v1
+title: 04_Assets – Index
+domain: 04_Assets
 lane: mapping
 status: active
 version: 1.0
@@ -19,20 +19,9 @@ cadence: none
 links: []
 delta: initial
 ---
-# youngdale – Index
+# 04_Assets – Index
 
 ## Contents
-- [[ethics_autonomy.md]]
-- [[brand_module.md]]
-- [[portable_air_concentrator.md]]
-- [[recursive_assessment.md]]
-- [[creation_tuning.md]]
-- [[canon_training.md]]
-- [[README.md]]
-- [[rules_and_life_decisions.md]]
-- [[roadmap.md]]
-- [[speed_vs_quality.md]]
-- [[philosophy_training.md]]
 
 ## Purpose
 Provide navigable links to all child notes and surface gaps.
