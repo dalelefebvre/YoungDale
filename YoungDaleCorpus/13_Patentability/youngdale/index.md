@@ -80,3 +80,6 @@ Provide navigable links and brief summaries for rapid retrieval and gap detectio
 - Add missing Purpose/Claims.
 - Normalize metadata and links.
 - Schedule evaluator passes for novelty, ethics, and consequence.
+
+## Notes
+Stub section added by repair script.

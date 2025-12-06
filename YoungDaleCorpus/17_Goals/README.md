@@ -49,3 +49,9 @@ Make goals operational: measurable, scheduled, and tied to evaluator gates and m
 - **Roadmap sync:** Align patent roadmap milestones to evaluator gates.
 - **Bench plan:** Day/night schedules per node and lane.
 - **Audit:** Quarterly MECE + provenance audits with lane indices.
+
+## Notes
+Stub section added by repair script.
+
+## Next Steps
+Stub section added by repair script.

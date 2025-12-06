@@ -49,3 +49,12 @@ Document sponsor-grade software used to orchestrate YoungDale across nodes, lane
 - **Requirements snapshots:** Generate per-lane requirements.txt and lock.
 - **Pre-commit:** Enforce hygiene; add YAML schema checks.
 - **Manifests as code:** Declarative run configs with explicit resources.
+
+## Notes
+Stub section added by repair script.
+
+## Next Steps
+Stub section added by repair script.
+
+## Related
+- [[01_Preferences/models.md|Model Preferences]]

@@ -51,3 +51,12 @@ Map sponsor-grade compute to lanes, with explicit memory, role, and cadence, so 
 - **Bench calendar:** Establish day/night cadence by lane and node.
 - **Context policy:** Document max tokens per lane; capture truncation rules.
 - **Fallback logic:** Encode failover order (Air → Pro → Sparks → Ultra) with heartbeat telemetry.
+
+## Notes
+Stub section added by repair script.
+
+## Next Steps
+Stub section added by repair script.
+
+## Related
+- [[01_Preferences/models.md|Model Preferences]]

@@ -82,3 +82,13 @@ This matrix defines which evaluators apply to each lane, ensuring sponsor-grade 
 - Use this matrix to guide recursive AI updating.
 - Expand evaluator definitions in `10_Evaluators/`.
 - Audit lanes quarterly for compliance with evaluator criteria.
+
+## Notes
+Stub section added by repair script.
+
+## Corpus structure
+- Placeholder mapping until diagram is added.
+- Lanes: 00_Index, 01_Preferences, 02_Shouldness_Engine, 03_Businesses, 04_Assets,
+  05_Rules, 06_Philosophy, 07_Poetry, 08_Culinary, 09_Workflows, 10_Evaluators,
+  11_Artifacts, 12_Events, 13_Patentability/youngdale, 14_Hardware, 15_Software,
+  16_YoungDale, 17_Goals.

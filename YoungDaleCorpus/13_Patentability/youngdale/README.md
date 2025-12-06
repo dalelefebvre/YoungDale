@@ -22,3 +22,9 @@ recursive mentor loops, and shouldness engine could be patentable.
 - Which components (corpus ingestion, recursive rewrite, provenance logging, shouldness engine) are patentable?
 - What prior art should be scanned first?
 - How do we structure claims to cover both technical and creative outputs?
+
+## Notes
+Stub section added by repair script.
+
+## Next Steps
+Stub section added by repair script.
