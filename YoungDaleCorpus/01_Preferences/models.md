@@ -32,3 +32,9 @@ tags: [models, quantization, platform]
 - Add evaluator scoring for model choice (latency vs resolution).
 - Document fallback logic (context overflow, failure modes).
 - Cross-link with Hardware and Software manifests.
+
+## Notes
+Stub section added by repair script.
+
+## Next Steps
+Stub section added by repair script.

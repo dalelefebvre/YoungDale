@@ -92,3 +92,7 @@ Stub section added by repair script.
   05_Rules, 06_Philosophy, 07_Poetry, 08_Culinary, 09_Workflows, 10_Evaluators,
   11_Artifacts, 12_Events, 13_Patentability/youngdale, 14_Hardware, 15_Software,
   16_YoungDale, 17_Goals.
+
+## Related
+- [[01_Preferences/models.md|Model Preferences]]
+- [[01_Preferences/editor.md|Editor & CLI Preferences]]

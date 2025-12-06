@@ -57,3 +57,7 @@ Stub section added by repair script.
 
 ## Next Steps
 Stub section added by repair script.
+
+## Related
+- [[01_Preferences/models.md|Model Preferences]]
+- [[01_Preferences/editor.md|Editor & CLI Preferences]]
