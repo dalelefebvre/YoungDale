@@ -4,11 +4,11 @@ title: youngdale – Index
 domain: youngdale
 lane: mapping
 status: active
-version: 1.0
+version: 1.1
 owner: dale
 created: 2025-12-06
 updated: 2025-12-06
-provenance: "auto-generated index with child links"
+provenance: "auto-generated index with child summaries"
 tags: [index, navigation, mapping]
 constraints:
   mece_required: true
@@ -17,32 +17,66 @@ sources: []
 evaluators: []
 cadence: none
 links: []
-delta: initial
+delta: refresh
 ---
 # youngdale – Index
 
-## Contents
-- [[ethics_autonomy.md]]
-- [[brand_module.md]]
-- [[portable_air_concentrator.md]]
-- [[recursive_assessment.md]]
-- [[creation_tuning.md]]
-- [[canon_training.md]]
-- [[README.md]]
-- [[rules_and_life_decisions.md]]
-- [[roadmap.md]]
-- [[speed_vs_quality.md]]
-- [[philosophy_training.md]]
+## Contents (with summaries)
+- [[ethics_autonomy.md]]  
+  **Heading:** # Ethics and Autonomy  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[brand_module.md]]  
+  **Heading:** # Brand Module  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[portable_air_concentrator.md]]  
+  **Heading:** # Portable Air Concentrator Patent Idea  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[recursive_assessment.md]]  
+  **Heading:** # Recursive Patentability Assessment  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[creation_tuning.md]]  
+  **Heading:** # Creation Tuning  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[canon_training.md]]  
+  **Heading:** # Canon Training via Media  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[README.md]]  
+  **Heading:** # YoungDale Patentability  
+  **Summary:** This folder holds rough notes, fragments, and structured outlines about how YoungDale’s architecture,
+recursive mentor loops, and shouldness engine could be patentable.
+<br>
+- [[rules_and_life_decisions.md]]  
+  **Heading:** # Rules and Life Decisions Training  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[roadmap.md]]  
+  **Heading:** # Patentability Roadmap  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[speed_vs_quality.md]]  
+  **Heading:** # Speed vs Quality  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
+- [[philosophy_training.md]]  
+  **Heading:** # Philosophy Architecture Training  
+  **Summary:** Explain why this block exists and how it connects to other lanes.
+<br>
 
 ## Purpose
-Provide navigable links to all child notes and surface gaps.
+Provide navigable links and brief summaries for rapid retrieval and gap detection.
 
 ## Questions
-- What files are missing or need consolidation?
-- Are cross-lane links explicit and MECE?
-- Which items should be prioritized for recursion?
+- Which files lack Purpose sections or clear claims?
+- Where are cross-lane dependencies not explicit?
+- What should be prioritized for recursion this week?
 
 ## Next Steps
-- Add missing notes.
-- Normalize metadata across children.
-- Link to related lanes where dependencies exist.
+- Add missing Purpose/Claims.
+- Normalize metadata and links.
+- Schedule evaluator passes for novelty, ethics, and consequence.
