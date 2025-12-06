@@ -55,3 +55,30 @@ MECE, and ingestion-ready for recursive AI updating.
 - Maintain lane indices with summaries and evaluator checklists.
 - Expand patentability lane with new ideas and product patents.
 - Periodically audit corpus for MECE compliance and provenance integrity.
+
+## Lane Evaluator Matrix
+
+| Lane                        | Evaluators                          | Focus Areas                                      |
+|-----------------------------|-------------------------------------|--------------------------------------------------|
+| 00_Index                    | Atomicity, MECE, Provenance         | Ensure structure is mutually exclusive & exhaustive |
+| 01_Preferences              | Personalization, Constraints        | Voice, refusal rules, personalization anchors    |
+| 02_Shouldness_Engine        | Novelty, Recursion, Autonomy        | Criteria, cadence, evaluators, playbooks, signals|
+| 03_Businesses               | Consequence, Governance, Finance    | Company structures, ventures, governance models  |
+| 04_Assets                   | Reproducibility, Provenance         | Real estate, physical/digital assets, holdings   |
+| 05_Rules                    | Ethics, Risk, Provenance            | Decision rules, operating principles, risk gates |
+| 06_Philosophy               | Novelty, Ethics, Canon Comparison   | Principles, claims, essays, canon references     |
+| 07_Poetry                   | Creativity, Canon, Provenance       | Fragments, poems, indices, literary canon        |
+| 08_Culinary                 | Reproducibility, Safety, Flavor     | Protocols, manifests, reproducible stock workflows|
+| 09_Workflows                | Automation, Hygiene, Provenance     | Pipelines, scripts, reproducibility checks       |
+| 10_Evaluators               | Quality, Novelty, Ethics, Recursion | Gatekeeping criteria across corpus               |
+| 11_Artifacts                | Provenance, Utility, Relevance      | Generated outputs, external references           |
+| 12_Events                   | Provenance, Cadence, Consequence    | Logs, milestones, provenance anchors             |
+| 13_Patentability/youngdale  | Novelty, Prior Art, Claims Coverage | Conceptual + product patents, roadmap, IP strategy|
+
+## Purpose
+This matrix defines which evaluators apply to each lane, ensuring sponsor-grade consistency across the corpus.
+
+## Next Steps
+- Use this matrix to guide recursive AI updating.
+- Expand evaluator definitions in `10_Evaluators/`.
+- Audit lanes quarterly for compliance with evaluator criteria.
