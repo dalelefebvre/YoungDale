@@ -1,0 +1,38 @@
+# --- YoungDale sponsor-grade ignore rules ---
+# Models, weights, tokenizers
+models/
+pro_models/
+llama.cpp/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+
+# Tokenizers and configs
+tokenizer.json
+tokenizer_config.json
+special_tokens_map.json
+sentence_bert_config.json
+spiece.model
+config.json
+config_sentence_transformers.json
+modules.json
+
+# Run outputs and logs
+*.log
+*.lo
+
+# Checkpoints and caches
+e5-xxl/
+sentence-t5-xxl/
+instructor-xl/
+gemma3-2b/
+qwen3-vl/
+1_Pooling/
+2_Dense/
+76f6c50ed6b6d2080f156dfb40b031f5a9ca9ad1129de4ee4025221af32f5862
+91459a4ff40cc52d3124f3bb8f99cade6dbf8438fb23e9fedc7b7dcd6c740313
+
+# Environment and lockfiles (keep lane-specific snapshots separately)
+.venv/
+venv/
