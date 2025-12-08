@@ -7,17 +7,17 @@ status: active
 version: 2.0
 owner: dale
 created: 2025-12-06
-updated: 2025-12-06
-provenance: "refreshed for reproducibility, provenance, and orchestration"
+updated: 2025-12-08
+provenance: refreshed for reproducibility, provenance, and orchestration
 tags: [software, stack, corpus]
-constraints:
-  mece_required: true
-  provenance_required: true
-sources: []
-evaluators: [reproducibility, hygiene, provenance]
+constraints: 
 cadence: none
 links: []
-delta: "expanded packages; clarified orchestration"
+sources: []
+evaluators: [reproducibility, hygiene, provenance]
+delta: expanded packages; clarified orchestration
+mece_required: true
+provenance_required: true
 ---
 # Software stack
 
@@ -58,3 +58,12 @@ Stub section added by repair script.
 
 ## Related
 - [[01_Preferences/models.md|Model Preferences]]
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links

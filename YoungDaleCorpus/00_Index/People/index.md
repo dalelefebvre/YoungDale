@@ -7,11 +7,11 @@ status: active
 version: 1.0
 owner: dale
 created: 2025-12-07
-updated: 2025-12-07
-provenance: "relationship-first initializer"
-tags: [people, profiles, relationships]
+updated: 2025-12-08
+provenance: relationship-first initializer
+tags: [people, relationship, profiles, relationships]
+constraints: {"mece_required": true, "provenance_required": true}
 ---
-
 # People index
 
 - Profiles for recipients, collaborators, family and friends.
@@ -20,3 +20,15 @@ tags: [people, profiles, relationships]
 ## Notes
 
 ## Next Steps
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

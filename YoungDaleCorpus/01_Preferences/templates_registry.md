@@ -6,10 +6,12 @@ lane: templates
 status: active
 version: 1.0
 owner: dale
-provenance: "relationship-first initializer"
+created: 2025-12-08
+updated: 2025-12-08
+provenance: relationship-first initializer
 tags: [templates, atomic, required_fields]
+constraints: {"mece_required": true, "provenance_required": true}
 ---
-
 # Templates registry
 
 - People: profile schema
@@ -24,3 +26,15 @@ tags: [templates, atomic, required_fields]
 All entries require:
 - YAML header with id, lane, status, owner, created/updated, provenance, tags
 - Sections: Purpose/Entry, Notes, Next Steps
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

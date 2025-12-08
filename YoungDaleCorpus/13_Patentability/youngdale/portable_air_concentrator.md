@@ -1,6 +1,4 @@
 ---
-created: 2025-12-06
-updated: 2025-12-06
 id: dale/patentability/youngdale/portable_air_concentrator/v1
 title: Portable Air Concentrator Patent Idea
 domain: patents
@@ -8,8 +6,12 @@ lane: product
 status: draft
 version: 1.0
 owner: dale
-provenance: "updated via automation"
-purpose: "Capture first at-scale patent target: portable air concentrator for jetlag mitigation."
+created: 2025-12-06
+updated: 2025-12-08
+provenance: updated via automation
+tags: [patent, kernel, method, ethics]
+constraints: {"mece_required": true, "provenance_required": true}
+purpose: Capture first at-scale patent target: portable air concentrator for jetlag mitigation.
 ---
 # Portable Air Concentrator Patent Idea
 
@@ -45,3 +47,15 @@ Capture rough ideas, fragments, or context.
 
 ## Next Steps
 Define what should be done next with this block.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

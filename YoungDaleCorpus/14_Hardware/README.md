@@ -7,17 +7,17 @@ status: active
 version: 2.0
 owner: dale
 created: 2025-12-06
-updated: 2025-12-06
-provenance: "rewritten with updated specs (Mac Pro 128G, Sparks dual founders with Gracewell 128G each, Studio Ultra 512G)"
+updated: 2025-12-08
+provenance: rewritten with updated specs (Mac Pro 128G, Sparks dual founders with Gracewell 128G each, Studio Ultra 512G)
 tags: [hardware, infrastructure, corpus]
-constraints:
-  mece_required: true
-  provenance_required: true
-sources: []
-evaluators: [reproducibility, capacity, hygiene]
+constraints: 
 cadence: none
 links: []
-delta: "spec update; clarified lane mapping"
+sources: []
+evaluators: [reproducibility, capacity, hygiene]
+delta: spec update; clarified lane mapping
+mece_required: true
+provenance_required: true
 ---
 # Hardware stack
 
@@ -60,3 +60,12 @@ Stub section added by repair script.
 
 ## Related
 - [[01_Preferences/models.md|Model Preferences]]
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links

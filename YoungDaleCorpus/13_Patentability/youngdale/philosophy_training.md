@@ -1,6 +1,4 @@
 ---
-created: 2025-12-06
-updated: 2025-12-06
 id: dale/patentability/youngdale/philosophy_training/v1
 title: Philosophy Architecture Training
 domain: patents
@@ -8,8 +6,12 @@ lane: reasoning
 status: draft
 version: 1.0
 owner: dale
-provenance: "updated via automation"
-purpose: "Capture idea that training AI on philosophy architecture (experiences, consequences, relationships) is patentable."
+created: 2025-12-06
+updated: 2025-12-08
+provenance: updated via automation
+tags: [patent, kernel, method, ethics]
+constraints: {"mece_required": true, "provenance_required": true}
+purpose: Capture idea that training AI on philosophy architecture (experiences, consequences, relationships) is patentable.
 ---
 # Philosophy Architecture Training
 
@@ -38,3 +40,15 @@ Capture rough ideas, fragments, or context.
 
 ## Next Steps
 Define what should be done next with this block.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

@@ -6,10 +6,12 @@ lane: embeddings
 status: active
 version: 1.0
 owner: dale
-provenance: "relationship-first initializer"
+created: 2025-12-08
+updated: 2025-12-08
+provenance: relationship-first initializer
 tags: [embeddings, chunking, retrieval]
+constraints: {"mece_required": true, "provenance_required": true}
 ---
-
 # Embedding config
 
 ## Granularity
@@ -22,3 +24,15 @@ tags: [embeddings, chunking, retrieval]
 
 ## Model family
 - Use a unified embedding model family across corpus to avoid distribution mismatch
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

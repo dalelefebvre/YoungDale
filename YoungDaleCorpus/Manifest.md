@@ -7,17 +7,17 @@ status: active
 version: 1.0
 owner: dale
 created: 2025-12-06
-updated: 2025-12-06
-provenance: "auto-generated manifest"
+updated: 2025-12-08
+provenance: auto-generated manifest
 tags: [manifest, corpus, governance]
-constraints:
-  mece_required: true
-  provenance_required: true
-sources: []
-evaluators: []
+constraints: 
 cadence: none
 links: []
+sources: []
+evaluators: []
 delta: initial
+mece_required: true
+provenance_required: true
 ---
 # YoungDale Corpus Manifest
 
@@ -96,3 +96,15 @@ Stub section added by repair script.
 ## Related
 - [[01_Preferences/models.md|Model Preferences]]
 - [[01_Preferences/editor.md|Editor & CLI Preferences]]
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

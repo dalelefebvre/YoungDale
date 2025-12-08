@@ -7,11 +7,11 @@ status: active
 version: 1.0
 owner: dale
 created: 2025-12-06
-updated: 2025-12-06
-provenance: "auto-generated preference file"
+updated: 2025-12-08
+provenance: auto-generated preference file
 tags: [models, quantization, platform]
+constraints: {"mece_required": true, "provenance_required": true}
 ---
-
 # Model Preferences
 
 ## Quantization
@@ -38,3 +38,12 @@ Stub section added by repair script.
 
 ## Next Steps
 Stub section added by repair script.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links

@@ -1,6 +1,4 @@
 ---
-created: 2025-12-06
-updated: 2025-12-06
 id: dale/patentability/youngdale/readme/v1
 title: YoungDale Patentability – README
 domain: patents
@@ -8,8 +6,12 @@ lane: reasoning
 status: draft
 version: 1.0
 owner: dale
-provenance: "updated via automation"
-purpose: "Capture rough ideas about the patentability of YoungDale itself."
+created: 2025-12-06
+updated: 2025-12-08
+provenance: updated via automation
+tags: [patent, kernel, method, ethics]
+constraints: {"mece_required": true, "provenance_required": true}
+purpose: Capture rough ideas about the patentability of YoungDale itself.
 ---
 # YoungDale Patentability
 
@@ -28,3 +30,15 @@ Stub section added by repair script.
 
 ## Next Steps
 Stub section added by repair script.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

@@ -6,13 +6,13 @@ lane: Gifts
 status: active
 version: 1.0
 owner: dale
-year: 2025
 created: 2025-12-07
-updated: 2025-12-07
-provenance: "relationship-first initializer"
-tags: [gifts, recipients, 2025]
+updated: 2025-12-08
+provenance: relationship-first initializer
+tags: [creation, gift, relationship, gifts, recipients, 2025]
+constraints: {"mece_required": true, "provenance_required": true}
+year: 2025
 ---
-
 # Gift ideas – 2025
 
 - Recipient-centric entries with links to People and Occasions.
@@ -21,3 +21,15 @@ tags: [gifts, recipients, 2025]
 ## Notes
 
 ## Next Steps
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

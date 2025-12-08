@@ -7,11 +7,11 @@ status: active
 version: 1.0
 owner: dale
 created: 2025-12-06
-updated: 2025-12-06
-provenance: "robust repair script"
+updated: 2025-12-08
+provenance: robust repair script
 tags: [editor, vscode, cli, copilot, secretary]
+constraints: {"mece_required": true, "provenance_required": true}
 ---
-
 # Editor & CLI Preferences
 
 ## Scribe-retary Behavior
@@ -25,3 +25,15 @@ tags: [editor, vscode, cli, copilot, secretary]
 ## Next Steps
 - Add evaluator hints to YAML during intake.
 - Sync these preferences into .vscode/settings.json via a small script.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

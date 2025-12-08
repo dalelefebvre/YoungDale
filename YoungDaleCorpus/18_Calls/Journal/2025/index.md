@@ -4,12 +4,14 @@ title: Call journal – 2025
 domain: calls
 lane: Journal
 status: active
+version: 1.0
 owner: dale
-year: 2025
 created: 2025-12-07
-updated: 2025-12-07
-provenance: "inline init"
-tags: [calls, journal, 2025]
+updated: 2025-12-08
+provenance: inline init
+tags: [calls, relationships, journal, 2025]
+constraints: {"mece_required": true, "provenance_required": true}
+year: 2025
 ---
 # Call journal – 2025
 
@@ -20,3 +22,15 @@ tags: [calls, journal, 2025]
 
 ## Notes
 ## Next Steps
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

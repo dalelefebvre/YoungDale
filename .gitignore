@@ -36,3 +36,8 @@ qwen3-vl/
 # Environment and lockfiles (keep lane-specific snapshots separately)
 .venv/
 venv/
+# Allowlist patterns (negation): keep small config/requirements
+!YoungDaleCorpus/**/requirements*.txt
+!YoungDaleCorpus/**/README.md
+!YoungDaleCorpus/**/index.md
+!YoungDaleCorpus/Manifest.md

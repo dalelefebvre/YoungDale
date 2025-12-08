@@ -1,6 +1,4 @@
 ---
-created: 2025-12-06
-updated: 2025-12-06
 id: dale/patentability/youngdale/roadmap/v1
 title: Patentability Roadmap
 domain: patents
@@ -8,8 +6,12 @@ lane: strategy
 status: draft
 version: 1.0
 owner: dale
-provenance: "updated via automation"
-purpose: "Prioritize conceptual and product patents for YoungDale."
+created: 2025-12-06
+updated: 2025-12-08
+provenance: updated via automation
+tags: [strategy, thesis, ethics, autonomy]
+constraints: {"mece_required": true, "provenance_required": true}
+purpose: Prioritize conceptual and product patents for YoungDale.
 ---
 # Patentability Roadmap
 
@@ -57,3 +59,15 @@ Capture rough ideas, fragments, or context.
 
 ## Next Steps
 Define what should be done next with this block.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

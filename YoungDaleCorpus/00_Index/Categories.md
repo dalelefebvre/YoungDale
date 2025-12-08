@@ -6,13 +6,13 @@ lane: categories
 status: active
 version: 1.0
 owner: dale
-year: 2025
 created: 2025-12-07
-updated: 2025-12-07
-provenance: "relationship-first initializer"
+updated: 2025-12-08
+provenance: relationship-first initializer
 tags: [categories, counts, 2025]
+constraints: {"mece_required": true, "provenance_required": true}
+year: 2025
 ---
-
 # Categories overview – 2025
 
 - Total markdown files: 57
@@ -37,3 +37,15 @@ tags: [categories, counts, 2025]
 - architecture_overview: [[01_Preferences/architecture_overview.md|Open]]
 
 - cli_structure: [[01_Preferences/cli_structure.md|Open]]
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

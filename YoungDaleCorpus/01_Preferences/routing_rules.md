@@ -6,10 +6,12 @@ lane: routing
 status: active
 version: 1.0
 owner: dale
-provenance: "relationship-first initializer"
+created: 2025-12-08
+updated: 2025-12-08
+provenance: relationship-first initializer
 tags: [routing, deterministic, semantic]
+constraints: {"mece_required": true, "provenance_required": true}
 ---
-
 # Routing rules
 
 ## Deterministic (offline)
@@ -25,3 +27,15 @@ tags: [routing, deterministic, semantic]
 ## Semantic (online, R7R 7B)
 - Classify category + year; add routing_confidence (0–1)
 - Propose cross-links to People/Occasions per content signals
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

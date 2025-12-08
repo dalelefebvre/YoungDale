@@ -7,17 +7,17 @@ status: active
 version: 2.0
 owner: dale
 created: 2025-12-06
-updated: 2025-12-06
-provenance: "refreshed with measurable milestones and cadence"
-tags: [goals, corpus, governance]
-constraints:
-  mece_required: true
-  provenance_required: true
-sources: []
-evaluators: [consequence, novelty, recursion]
+updated: 2025-12-08
+provenance: refreshed with measurable milestones and cadence
+tags: [okr, execution, goals, corpus, governance]
+constraints: 
 cadence: quarterly
 links: []
-delta: "added milestones and filing cadence"
+sources: []
+evaluators: [consequence, novelty, recursion]
+delta: added milestones and filing cadence
+mece_required: true
+provenance_required: true
 ---
 # YoungDale goals
 
@@ -55,3 +55,12 @@ Stub section added by repair script.
 
 ## Next Steps
 Stub section added by repair script.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links

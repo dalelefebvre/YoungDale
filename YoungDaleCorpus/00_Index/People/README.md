@@ -6,10 +6,12 @@ lane: People
 status: active
 version: 1.0
 owner: dale
-provenance: "relationship-first initializer"
-tags: [people, profiles, preferences, constraints]
+created: 2025-12-08
+updated: 2025-12-08
+provenance: relationship-first initializer
+tags: [people, relationship, profiles, preferences, constraints]
+constraints: {"mece_required": true, "provenance_required": true}
 ---
-
 # People lane
 
 ## Profile schema (YAML fields)
@@ -24,3 +26,15 @@ tags: [people, profiles, preferences, constraints]
 ## Notes
 
 ## Next Steps
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps

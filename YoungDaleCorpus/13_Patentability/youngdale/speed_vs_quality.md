@@ -1,6 +1,4 @@
 ---
-created: 2025-12-06
-updated: 2025-12-06
 id: dale/patentability/youngdale/speed_vs_quality/v1
 title: Speed vs Quality
 domain: patents
@@ -8,8 +6,12 @@ lane: reasoning
 status: draft
 version: 1.0
 owner: dale
-provenance: "updated via automation"
-purpose: "Explore patentability of prioritizing quality outcomes over efficiency or cost."
+created: 2025-12-06
+updated: 2025-12-08
+provenance: updated via automation
+tags: [patent, kernel, method, ethics]
+constraints: {"mece_required": true, "provenance_required": true}
+purpose: Explore patentability of prioritizing quality outcomes over efficiency or cost.
 ---
 # Speed vs Quality
 
@@ -38,3 +40,15 @@ Capture rough ideas, fragments, or context.
 
 ## Next Steps
 Define what should be done next with this block.
+
+
+# Summary
+
+
+## Rationale
+
+
+## Links
+
+
+## Next steps
