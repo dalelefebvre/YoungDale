@@ -1,23 +1,13 @@
 ---
 id: yd/prefs/evaluator_hints/v1
-title: Evaluator hints
+title: uevaluator hints
 domain: preferences
-lane: evaluators
+lane: docs
 status: active
-version: 1.0
 owner: dale
-provenance: "relationship-first initializer"
-tags: [latency, resolution, risk, privacy]
+created: 2025-12-07
+updated: 2025-12-07
+provenance: "yd_doctor"
+tags: [docs, corpus]
 ---
-
-# Evaluator hints
-
-- latency_budget: short|medium|long
-- resolution_target: low|medium|high
-- risk_tolerance: conservative|balanced|bold
-- privacy_level: public|private|confidential
-
-Machine-aware defaults:
-- Air: latency=short, resolution=low/medium
-- Pro: latency=medium, resolution=high
-- Sparks: latency=long, resolution=high
+# Evaluator Hints\n\n- latency_budget: short|medium|long\n- resolution_target: low|medium|high\n- privacy_level: private|confidential|public

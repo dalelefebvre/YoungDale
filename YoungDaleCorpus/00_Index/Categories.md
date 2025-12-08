@@ -31,3 +31,9 @@ tags: [categories, counts, 2025]
 ## Notes
 
 ## Next Steps
+
+- Evaluator Hints: [[01_Preferences/evaluator_hints.md|Open]]
+
+- architecture_overview: [[01_Preferences/architecture_overview.md|Open]]
+
+- cli_structure: [[01_Preferences/cli_structure.md|Open]]
