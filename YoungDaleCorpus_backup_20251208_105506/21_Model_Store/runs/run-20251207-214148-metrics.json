@@ -1,0 +1,31 @@
+{
+  "run_id": "run-20251207-214148",
+  "timestamp": "2025-12-07T21:41:48-0500",
+  "machine": "air",
+  "model_fp16": "",
+  "model_int8": "",
+  "policy": {
+    "daytime": "",
+    "air_write": "",
+    "pro_night": "",
+    "ultra_global": ""
+  },
+  "metrics": {
+    "refusal_rate": 0.0,
+    "citation_adherence": 1.0,
+    "schema_validity": 1.0,
+    "routing_precision": 1.0,
+    "repetition_ratio": 0.0,
+    "latency_ms": 0,
+    "throughput_tokens_per_s": 0,
+    "provenance_completeness": 1.0
+  },
+  "lanes": {
+    "People": "00_Index/People",
+    "Calls": "18_Calls/Journal/",
+    "Patents": "03_Businesses/Patent_Ideas/",
+    "Occasions": "12_Events/Occasions/",
+    "Journals": "16_YoungDale/Journal/",
+    "Coding": "20_Engineering/Coding/"
+  }
+}

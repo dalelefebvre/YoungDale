@@ -1,0 +1,3 @@
+# Index — decisions
+- [[decisions/README]]
+

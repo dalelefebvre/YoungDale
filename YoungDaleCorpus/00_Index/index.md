@@ -1,52 +1,42 @@
----
-id: dale/00_Index/index/v1
-title: 00_Index – Index
-domain: 00_Index
-lane: mapping
-status: active
-version: 1.1
-owner: dale
-created: 2025-12-06
-updated: 2025-12-08
-provenance: auto-generated index with child summaries
-tags: [index, navigation, mapping]
-constraints: 
-cadence: none
-links: []
-sources: []
-evaluators: []
-delta: refresh
-mece_required: true
-provenance_required: true
----
-# 00_Index – Index
+# Index — Corpus
+- [[00_Index/README]]
+- [[00_Index/index]]
+- [[01_Preferences/index]]
+- [[02_Shouldness_Engine/index]]
+- [[03_Businesses/index]]
+- [[04_Assets/index]]
+- [[05_Rules/index]]
+- [[06_Philosophy/index]]
+- [[07_Poetry/index]]
+- [[08_Culinary/index]]
+- [[09_Workflows/index]]
+- [[10_Evaluators/index]]
+- [[11_Artifacts/index]]
+- [[12_Events/index]]
+- [[13_Patentability/index]]
+- [[14_Hardware/index]]
+- [[15_Software/index]]
+- [[16_YoungDale/index]]
+- [[17_Goals/index]]
+- [[17_Influences/index]]
+- [[18_Calls/index]]
+- [[20_Engineering/index]]
+- [[21_Model_Store/index]]
+- [[strategy/index]]
+- [[goals/index]]
+- [[patents/index]]
+- [[creations/index]]
+- [[ventures/index]]
+- [[people/index]]
+- [[calls/index]]
+- [[journals/index]]
+- [[notes/index]]
+- [[recipes/index]]
+- [[poems/index]]
+- [[questions/index]]
+- [[rules/index]]
+- [[model_store/index]]
+- [[voice/index]]
+- [[decisions/index]]
+- [[gifts/index]]
 
-## Contents (with summaries)
-
-## Purpose
-Provide navigable links and brief summaries for rapid retrieval and gap detection.
-
-## Questions
-- Which files lack Purpose sections or clear claims?
-- Where are cross-lane dependencies not explicit?
-- What should be prioritized for recursion this week?
-
-## Next Steps
-- Add missing Purpose/Claims.
-- Normalize metadata and links.
-- Schedule evaluator passes for novelty, ethics, and consequence.
-
-## Notes
-Stub section added by repair script.
-
-
-# Summary
-
-
-## Rationale
-
-
-## Links
-
-
-## Next steps

@@ -1,0 +1,25 @@
+# Corpus global schema
+# Defines required fields and anchors for YAML frontmatter
+
+required_fields:
+  - id
+  - title
+  - domain
+  - lane
+  - status
+  - version
+  - owner
+  - created
+  - updated
+  - provenance
+  - tags
+  - links
+
+voice_anchors:
+  - intent
+  - risk
+  - tenderness
+  - wit
+  - context
+  - relationship
+

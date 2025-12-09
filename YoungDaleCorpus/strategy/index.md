@@ -1,0 +1,3 @@
+# Index — strategy
+- [[strategy/README]]
+

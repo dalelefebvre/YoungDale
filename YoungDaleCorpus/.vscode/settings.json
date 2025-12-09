@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.md": "markdown",
+    "*.yaml": "yaml"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "yaml.schemas": {
+    "./schema.yaml": "*.yaml"
+  }
+}

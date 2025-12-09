@@ -1,0 +1,3 @@
+# Index — recipes
+- [[recipes/README]]
+

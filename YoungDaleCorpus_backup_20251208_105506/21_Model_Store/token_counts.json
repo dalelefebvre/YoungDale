@@ -1,0 +1,270 @@
+[
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/Manifest.md",
+    "tokens": 1270
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/06_Philosophy/index.md",
+    "tokens": 268
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/18_Calls/Journal/2025/example-call.md",
+    "tokens": 214
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/18_Calls/Journal/2025/index.md",
+    "tokens": 168
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/07_Poetry/index.md",
+    "tokens": 268
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/07_Poetry/Shards/README.md",
+    "tokens": 224
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/07_Poetry/Shards/2025/index.md",
+    "tokens": 154
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/15_Software/README.md",
+    "tokens": 544
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/10_Evaluators/index.md",
+    "tokens": 268
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/21_Model_Store/README.md",
+    "tokens": 163
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/cli_structure.md",
+    "tokens": 92
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/templates_registry.md",
+    "tokens": 200
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/architecture_overview.md",
+    "tokens": 94
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/routing_rules.md",
+    "tokens": 267
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/editor.md",
+    "tokens": 215
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/index.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/models.md",
+    "tokens": 338
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/evaluator_hints.md",
+    "tokens": 97
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/01_Preferences/embedding_config.md",
+    "tokens": 163
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/14_Hardware/README.md",
+    "tokens": 725
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/ethics_autonomy.md",
+    "tokens": 275
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/brand_module.md",
+    "tokens": 249
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/portable_air_concentrator.md",
+    "tokens": 369
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/recursive_assessment.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/creation_tuning.md",
+    "tokens": 288
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/canon_training.md",
+    "tokens": 293
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/README.md",
+    "tokens": 243
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/rules_and_life_decisions.md",
+    "tokens": 290
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/roadmap.md",
+    "tokens": 625
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/index.md",
+    "tokens": 714
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/speed_vs_quality.md",
+    "tokens": 278
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/13_Patentability/youngdale/philosophy_training.md",
+    "tokens": 277
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/03_Businesses/index.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/03_Businesses/Patent_Ideas/README.md",
+    "tokens": 248
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/03_Businesses/Patent_Ideas/2025/index.md",
+    "tokens": 157
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/08_Culinary/index.md",
+    "tokens": 268
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/08_Culinary/Wines/README.md",
+    "tokens": 252
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/08_Culinary/Wines/2025/index.md",
+    "tokens": 148
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/08_Culinary/Diary/README.md",
+    "tokens": 237
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/08_Culinary/Diary/2025/index.md",
+    "tokens": 151
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/17_Goals/README.md",
+    "tokens": 519
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/05_Rules/index.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/16_YoungDale/README.md",
+    "tokens": 586
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/16_YoungDale/Journal/README.md",
+    "tokens": 226
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/16_YoungDale/Journal/2025/index.md",
+    "tokens": 147
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/16_YoungDale/Journal/migrations/onenote_index.md",
+    "tokens": 102
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/16_YoungDale/Goals/2025/example-goal.md",
+    "tokens": 121
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/12_Events/index.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/12_Events/Gifts/README.md",
+    "tokens": 258
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/12_Events/Gifts/2025/example-gift.md",
+    "tokens": 127
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/12_Events/Gifts/2025/index.md",
+    "tokens": 167
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/12_Events/Occasions/README.md",
+    "tokens": 250
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/12_Events/Occasions/2025/index.md",
+    "tokens": 170
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/12_Events/Occasions/2025/example-occasion.md",
+    "tokens": 136
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/02_Shouldness_Engine/index.md",
+    "tokens": 276
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/20_Engineering/Coding/2025/example-code.md",
+    "tokens": 159
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/11_Artifacts/index.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/11_Artifacts/Outbound_Notes/README.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/11_Artifacts/Outbound_Notes/2025/index.md",
+    "tokens": 171
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/04_Assets/index.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/09_Workflows/index.md",
+    "tokens": 268
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/00_Index/inbox.md",
+    "tokens": 118
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/00_Index/index.md",
+    "tokens": 264
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/00_Index/Categories.md",
+    "tokens": 505
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/00_Index/People/README.md",
+    "tokens": 185
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/00_Index/People/index.md",
+    "tokens": 130
+  },
+  {
+    "file": "/Users/dalelefebvre/projects/YoungDale/YoungDaleCorpus/00_Index/People/migrations/outlook_contacts.md",
+    "tokens": 99
+  }
+]

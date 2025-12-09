@@ -1,0 +1,33 @@
+# 18_Calls README
+
+## Purpose
+Call logs, outcomes, and follow‑ups.
+
+## YAML frontmatter (global pattern)
+```yaml
+---
+id: 18_Calls/<slug>/v1
+title: "<title>"
+domain: 18_Calls
+lane: journal|summary|index
+status: active|draft|archived
+version: 1.0
+owner: dale
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+provenance: "cli-listener|manual|seed"
+tags: [keywords]
+links:
+  guide: [18_Calls/guide]
+  index: [18_Calls/index]
+---
+```
+
+## Reasoning
+- Frontmatter enforces queryable consistency and provenance.
+- Index provides navigation and backlinks to the lane README.
+- Entries should be atomic and MECE within lane semantics.
+
+## Navigation
+- See [[18_Calls/index]] for lane listing.
+

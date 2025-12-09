@@ -1,66 +1,33 @@
----
-id: dale/goals/readme/v2
-title: YoungDale goals
-domain: goals
-lane: governance
-status: active
-version: 2.0
-owner: dale
-created: 2025-12-06
-updated: 2025-12-08
-provenance: refreshed with measurable milestones and cadence
-tags: [okr, execution, goals, corpus, governance]
-constraints: 
-cadence: quarterly
-links: []
-sources: []
-evaluators: [consequence, novelty, recursion]
-delta: added milestones and filing cadence
-mece_required: true
-provenance_required: true
----
-# YoungDale goals
+# 17_Goals README
 
 ## Purpose
-Make goals operational: measurable, scheduled, and tied to evaluator gates and manifests.
+OKRs and execution plans with cadence and measurable outcomes.
 
-## Short-term (0–12 months)
-- **Corpus:** Seed and harden atomic Markdown across all lanes.
-- **Provenance:** Inline YAML + git commits on every change.
-- **Evaluators:** Define novelty/ethics/recursion scoring in 10_Evaluators.
-- **Patents:** Draft provisionals for creation tuning, recursive assessment, philosophy training.
+## YAML frontmatter (global pattern)
+```yaml
+---
+id: 17_Goals/<slug>/v1
+title: "<title>"
+domain: 17_Goals
+lane: okr|plan|checkpoint
+status: active|draft|archived
+version: 1.0
+owner: dale
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+provenance: "cli-listener|manual|seed"
+tags: [keywords]
+links:
+  guide: [17_Goals/guide]
+  index: [17_Goals/index]
+---
+```
 
-## Mid-term (12–24 months)
-- **Frontier runs:** Normalize long-context recursion on Studio Ultra (512G).
-- **Agents:** Benchmark multi-agent patterns on Sparks (dual founders with Gracewell, 128G each).
-- **Product patent:** Prototype portable air concentrator; architecture + filter claims.
+## Reasoning
+- Frontmatter enforces queryable consistency and provenance.
+- Index provides navigation and backlinks to the lane README.
+- Entries should be atomic and MECE within lane semantics.
 
-## Long-term (24+ months)
-- **Portfolio:** 100+ patents across corpus + product lanes.
-- **Platform:** MECE, extensible guidance system scaling to $1B+.
-- **Culinary:** Sponsor-grade mapped workflows; philanthropic activation.
+## Navigation
+- See [[17_Goals/index]] for lane listing.
 
-## Questions
-- **Prioritization:** Which patents file first for defensibility?
-- **Cadence:** What quarterly gates ensure recursion and consequence?
-- **Scale:** What infra shifts are needed for frontier contexts?
-
-## Next steps
-- **Roadmap sync:** Align patent roadmap milestones to evaluator gates.
-- **Bench plan:** Day/night schedules per node and lane.
-- **Audit:** Quarterly MECE + provenance audits with lane indices.
-
-## Notes
-Stub section added by repair script.
-
-## Next Steps
-Stub section added by repair script.
-
-
-# Summary
-
-
-## Rationale
-
-
-## Links

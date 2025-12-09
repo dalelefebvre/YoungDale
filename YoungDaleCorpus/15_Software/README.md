@@ -1,69 +1,33 @@
----
-id: dale/software/readme/v2
-title: Software stack
-domain: software
-lane: infrastructure
-status: active
-version: 2.0
-owner: dale
-created: 2025-12-06
-updated: 2025-12-08
-provenance: refreshed for reproducibility, provenance, and orchestration
-tags: [software, stack, corpus]
-constraints: 
-cadence: none
-links: []
-sources: []
-evaluators: [reproducibility, hygiene, provenance]
-delta: expanded packages; clarified orchestration
-mece_required: true
-provenance_required: true
----
-# Software stack
+# 15_Software README
 
 ## Purpose
-Document sponsor-grade software used to orchestrate YoungDale across nodes, lanes, and manifests with reproducible environments and provenance.
+Lane content per directory semantics.
 
-## Core tools
-- **Obsidian:** Atomic corpus, indices, manifests; YAML-heavy notes for ingestion.
-- **Git + GitHub:** Version control, diffs, provenance, release cadence.
-- **Python (venv):** Reproducible environments; pinned requirements.txt; lockfiles.
+## YAML frontmatter (global pattern)
+```yaml
+---
+id: 15_Software/<slug>/v1
+title: "<title>"
+domain: 15_Software
+lane: index|entry
+status: active|draft|archived
+version: 1.0
+owner: dale
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+provenance: "cli-listener|manual|seed"
+tags: [keywords]
+links:
+  guide: [15_Software/guide]
+  index: [15_Software/index]
+---
+```
 
-## Packages
-- **Infra:** Homebrew, git-lfs, jq, aria2.
-- **AI stack:** huggingface_hub, transformers, accelerate, safetensors, torch.
-- **Data + viz:** pandas, numpy, mermaid (via Markdown), matplotlib (optional).
-- **Ops:** uv or pip-tools (pinning), pre-commit (linting), ruff/black (style).
+## Reasoning
+- Frontmatter enforces queryable consistency and provenance.
+- Index provides navigation and backlinks to the lane README.
+- Entries should be atomic and MECE within lane semantics.
 
-## Orchestration
-- **Manifests:** RAM footprints, context windows, model/version pinning.
-- **Lanes:** Reasoning, coding, patentability, culinary; per-lane venvs.
-- **Telemetry:** Heartbeats, progress logs, fallback order, rollbacks.
+## Navigation
+- See [[15_Software/index]] for lane listing.
 
-## Questions
-- **Pinning:** What versions are canonical per lane?
-- **Artifacts:** Which outputs are logged and indexed for RAG?
-- **Security:** How do we authenticate access to private artifacts safely?
-
-## Next steps
-- **Requirements snapshots:** Generate per-lane requirements.txt and lock.
-- **Pre-commit:** Enforce hygiene; add YAML schema checks.
-- **Manifests as code:** Declarative run configs with explicit resources.
-
-## Notes
-Stub section added by repair script.
-
-## Next Steps
-Stub section added by repair script.
-
-## Related
-- [[01_Preferences/models.md|Model Preferences]]
-
-
-# Summary
-
-
-## Rationale
-
-
-## Links

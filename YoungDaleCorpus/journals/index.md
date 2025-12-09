@@ -1,0 +1,3 @@
+# Index — journals
+- [[journals/README]]
+

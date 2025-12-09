@@ -1,0 +1,3 @@
+# Index — people
+- [[people/README]]
+

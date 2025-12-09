@@ -1,0 +1,3 @@
+# Index — notes
+- [[notes/README]]
+

@@ -1,0 +1,7 @@
+# Git attributes for corpus
+*.md text diff=markdown
+*.yaml text diff=yaml
+*.json text
+*.toml text
+*.lock text
+

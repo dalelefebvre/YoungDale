@@ -1,0 +1,3 @@
+# Index — goals
+- [[goals/README]]
+

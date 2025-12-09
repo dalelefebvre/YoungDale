@@ -1,0 +1,3 @@
+# Index — patents
+- [[patents/README]]
+
